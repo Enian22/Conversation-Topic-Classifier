@@ -16,9 +16,3 @@ The model classifies conversations into the following topics:
 - Uses a TensorFlow model with embedding and convolutional layers for classification.
 - Achieves high accuracy on both training and validation datasets.
 - Includes an API function to predict the topic of new conversations.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd conversation-tagging
